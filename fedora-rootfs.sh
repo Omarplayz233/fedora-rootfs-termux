@@ -22,7 +22,7 @@ esac
 clear
 echo ${R}"Warning! Error may occur during installation."
 echo " "
-echo ${C}"Script made by 23xvx "
+echo ${C}"Script made by 23xvx, modded and added by Omarplayz233. "
 sleep 2
 
 # Requirements
